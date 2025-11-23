@@ -1,0 +1,136 @@
+[18:38:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:38:27] [ServerMain/INFO]: Loaded 1407 recipes
+[18:38:27] [ServerMain/INFO]: Loaded 1520 advancements
+[18:38:27] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[18:38:27] [Server thread/INFO]: Loading properties
+[18:38:27] [Server thread/INFO]: Default game type: SURVIVAL
+[18:38:27] [Server thread/INFO]: Generating keypair
+[18:38:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:38:27] [Server thread/INFO]: Using epoll channel type
+[18:38:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:38:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:38:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:38:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:38:27] [Server thread/INFO]: Preparing level "world"
+[18:38:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:38:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:38:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:38:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:38:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:38:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:38:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:38:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:38:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:38:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:38:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[18:38:32] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[18:38:33] [Worker-Main-2/INFO]: Preparing spawn area: 71%
+[18:38:33] [Server thread/INFO]: Time elapsed: 5634 ms
+[18:38:33] [Server thread/INFO]: Done (5.957s)! For help, type "help"
+[18:38:34] [Server thread/INFO]: Kado00[/127.126.56.65:53087] logged in with entity id 10 at (-6.5, 114.0, 6.5)
+[18:38:34] [Server thread/INFO]: Kado00 joined the game
+[18:38:39] [Server thread/INFO]: ErosWKHS[/127.97.178.185:32831] logged in with entity id 248 at (277.57435903595933, 55.0, 76.8235103847779)
+[18:38:39] [Server thread/INFO]: ErosWKHS joined the game
+[18:39:38] [Server thread/INFO]: kapi[/127.242.129.230:50955] logged in with entity id 994 at (4.5, 115.0, 6.5)
+[18:39:38] [Server thread/INFO]: kapi joined the game
+[18:39:44] [Server thread/INFO]: Kado00 has made the advancement [Stone Age]
+[18:39:51] [Server thread/INFO]: Kado00 has made the advancement [Getting an Upgrade]
+[18:40:28] [Server thread/INFO]: kapi lost connection: Disconnected
+[18:40:28] [Server thread/INFO]: kapi left the game
+[18:43:02] [Server thread/INFO]: Kado00 has made the advancement [Acquire Hardware]
+[18:43:10] [Server thread/INFO]: Kado00 has made the advancement [Suit Up]
+[18:43:28] [Server thread/INFO]: Kado00 has made the advancement [Isn't It Iron Pick]
+[18:54:31] [Server thread/INFO]: ErosWKHS has made the advancement [A Seedy Place]
+[18:55:42] [Server thread/INFO]: ErosWKHS has made the advancement [Sweet Dreams]
+[18:56:11] [Server thread/INFO]: Kado00 has made the advancement [Sweet Dreams]
+[18:56:14] [Server thread/INFO]: ErosWKHS lost connection: Disconnected
+[18:56:14] [Server thread/INFO]: ErosWKHS left the game
+[18:56:18] [Server thread/INFO]: ErosWKHS[/127.97.178.185:44901] logged in with entity id 5475 at (299.41601837916454, 54.0, 76.126754766142)
+[18:56:18] [Server thread/INFO]: ErosWKHS joined the game
+[19:03:02] [Server thread/INFO]: Bichomad[/127.103.25.127:42943] logged in with entity id 7210 at (4.5, 114.0, 10.5)
+[19:03:02] [Server thread/INFO]: Bichomad joined the game
+[19:04:54] [Server thread/INFO]: Bichomad has made the advancement [Isn't It Iron Pick]
+[19:04:54] [Server thread/INFO]: Bichomad has made the advancement [Cover Me with Diamonds]
+[19:04:55] [Server thread/INFO]: Bichomad has reached the goal [Sky's the Limit]
+[19:06:53] [Server thread/INFO]: Bichomad has made the advancement [Stone Age]
+[19:07:25] [Server thread/INFO]: Bichomad has made the advancement [Monster Hunter]
+[19:08:40] [Server thread/INFO]: ErosWKHS has made the advancement [Suit Up]
+[19:10:25] [Server thread/INFO]: Kado00 has made the advancement [Monster Hunter]
+[19:10:51] [Server thread/INFO]: kapi[/127.242.129.230:45937] logged in with entity id 10864 at (49.20914537835246, 96.0, 64.30000001192093)
+[19:10:51] [Server thread/INFO]: kapi joined the game
+[19:14:18] [Server thread/INFO]: Bichomad has made the advancement [Hot Stuff]
+[19:14:41] [Server thread/INFO]: kapi has made the advancement [Stone Age]
+[19:15:09] [Server thread/INFO]: Bichomad has made the advancement [Acquire Hardware]
+[19:15:12] [Server thread/INFO]: kapi has made the advancement [Acquire Hardware]
+[19:15:30] [Server thread/INFO]: kapi has made the advancement [Suit Up]
+[19:15:35] [Server thread/INFO]: Bichomad has made the advancement [What a Deal!]
+[19:16:04] [Server thread/INFO]: Kado00 has made the advancement [Take Aim]
+[19:17:20] [Server thread/INFO]: Bichomad has made the advancement [Local Brewery]
+[19:17:30] [Server thread/INFO]: kapi lost connection: Disconnected
+[19:17:30] [Server thread/INFO]: kapi left the game
+[19:17:32] [Server thread/INFO]: kapi[/127.242.129.230:56331] logged in with entity id 12614 at (299.11439840215945, 49.0, 74.20514884454553)
+[19:17:32] [Server thread/INFO]: kapi joined the game
+[19:17:55] [Server thread/INFO]: Kado00 was slain by Bichomad
+[19:19:19] [Server thread/INFO]: kapi has made the advancement [Monster Hunter]
+[19:21:47] [Server thread/INFO]: Kado00 lost connection: Disconnected
+[19:21:47] [Server thread/INFO]: Kado00 left the game
+[19:25:19] [Server thread/INFO]: kapi has made the advancement [Diamonds!]
+[19:30:05] [Server thread/INFO]: kapi has made the advancement [What a Deal!]
+[19:35:16] [Server thread/INFO]: raul_avasan[/127.20.179.141:59359] logged in with entity id 19050 at (236.44050604438294, 14.0, 20.614646671058395)
+[19:35:16] [Server thread/INFO]: raul_avasan joined the game
+[19:38:40] [Server thread/INFO]: Bichomad has made the advancement [A Seedy Place]
+[19:39:21] [Server thread/INFO]: Bichomad has made the advancement [The Parrots and the Bats]
+[19:40:04] [Server thread/INFO]: raul_avasan has made the advancement [Enchanter]
+[19:43:33] [Server thread/INFO]: raul_avasan has made the advancement [Sneak 100]
+[19:43:41] [Server thread/INFO]: Bichomad has made the advancement [Diamonds!]
+[19:58:00] [Server thread/INFO]: raul_avasan has made the advancement [Local Brewery]
+[19:59:24] [Server thread/INFO]: kapi lost connection: Disconnected
+[19:59:24] [Server thread/INFO]: kapi left the game
+[19:59:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=221, y=-52, z=-14} jb{x=219, y=-53, z=-14}
+[19:59:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=224, y=-52, z=-11} jb{x=224, y=-53, z=-10}
+[20:00:38] [Server thread/INFO]: kapi[/127.242.129.230:41157] logged in with entity id 30231 at (264.28865066145494, 62.9375, 74.82075116555299)
+[20:00:38] [Server thread/INFO]: kapi joined the game
+[20:03:57] [Server thread/INFO]: kapi lost connection: Disconnected
+[20:03:57] [Server thread/INFO]: kapi left the game
+[20:16:32] [Server thread/INFO]: ErosWKHS lost connection: Disconnected
+[20:16:32] [Server thread/INFO]: ErosWKHS left the game
+[20:16:32] [Server thread/INFO]: Bichomad lost connection: Disconnected
+[20:16:32] [Server thread/INFO]: Bichomad left the game
+[20:16:33] [Server thread/INFO]: raul_avasan lost connection: Disconnected
+[20:16:33] [Server thread/INFO]: raul_avasan left the game
+[20:16:38] [Server thread/INFO]: ErosWKHS[/127.97.178.185:54549] logged in with entity id 35972 at (220.4842784600829, -52.0, -28.943713298339425)
+[20:16:38] [Server thread/INFO]: ErosWKHS joined the game
+[20:16:41] [Server thread/INFO]: raul_avasan[/127.20.179.141:53467] logged in with entity id 36432 at (293.54234384810655, 55.0, 79.04365612496291)
+[20:16:41] [Server thread/INFO]: raul_avasan joined the game
+[20:44:47] [Server thread/INFO]: Bichomad[/127.103.25.127:54301] logged in with entity id 49315 at (215.30000001192093, -44.0, -6.618624286288451)
+[20:44:47] [Server thread/INFO]: Bichomad joined the game
+[20:48:15] [Server thread/INFO]: Bichomad has made the advancement [Sweet Dreams]
+[21:03:58] [Server thread/INFO]: raul_avasan lost connection: Disconnected
+[21:03:58] [Server thread/INFO]: raul_avasan left the game
+[21:05:12] [Server thread/INFO]: raul_avasan[/127.51.68.116:48137] logged in with entity id 56446 at (297.30000001192093, 55.0, 84.15985983627448)
+[21:05:12] [Server thread/INFO]: raul_avasan joined the game
+[21:10:18] [Server thread/INFO]: raul_avasan lost connection: Disconnected
+[21:10:18] [Server thread/INFO]: raul_avasan left the game
+[21:13:19] [Server thread/INFO]: Bichomad has made the advancement [Enchanter]
+[21:27:38] [Server thread/INFO]: Bichomad has made the advancement [Take Aim]
+[21:35:33] [Server thread/INFO]: raul_avasan[/127.51.68.116:35971] logged in with entity id 66202 at (257.9602313809921, 63.0, 72.66939925376072)
+[21:35:33] [Server thread/INFO]: raul_avasan joined the game
+[21:35:33] [Server thread/INFO]: raul_avasan lost connection: Disconnected
+[21:35:33] [Server thread/INFO]: raul_avasan left the game
+[21:35:38] [Server thread/INFO]: raul_avasan[/127.51.68.116:58317] logged in with entity id 66301 at (257.9602313809921, 63.0, 72.66939925376072)
+[21:35:38] [Server thread/INFO]: raul_avasan joined the game
+[21:35:38] [Server thread/INFO]: raul_avasan lost connection: Disconnected
+[21:35:38] [Server thread/INFO]: raul_avasan left the game
+[21:37:27] [Server thread/INFO]: raul_avasan[/127.20.179.141:44117] logged in with entity id 67701 at (257.9602313809921, 63.0, 72.66939925376072)
+[21:37:27] [Server thread/INFO]: raul_avasan joined the game
+[21:38:35] [Server thread/INFO]: ErosWKHS lost connection: Disconnected
+[21:38:35] [Server thread/INFO]: ErosWKHS left the game
+[21:38:45] [Server thread/INFO]: ErosWKHS[/127.97.178.185:47233] logged in with entity id 68114 at (291.9405742572186, 55.0, 76.37119963828219)
+[21:38:45] [Server thread/INFO]: ErosWKHS joined the game
+[21:40:11] [Server thread/INFO]: Bichomad lost connection: Disconnected
+[21:40:11] [Server thread/INFO]: Bichomad left the game
+[21:40:12] [Server thread/INFO]: ErosWKHS lost connection: Disconnected
+[21:40:12] [Server thread/INFO]: ErosWKHS left the game
+[21:40:12] [Server thread/INFO]: raul_avasan lost connection: Disconnected
+[21:40:12] [Server thread/INFO]: raul_avasan left the game
+[21:41:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
